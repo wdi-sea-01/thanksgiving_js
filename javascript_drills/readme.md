@@ -26,7 +26,7 @@ Output
 [ 'Passion Pit', 'Mumford and Sons', 'MGMT' ]
 ```
 
-
+[Here is an example](https://gist.github.com/itslenny/bbdf52761277db655319) of how to set up your code for the pluck function. The rest can be set up similarly.
 
 ##zip(array, array2)
 Take two arrays, and combine them.
