@@ -65,9 +65,8 @@ Output
 
 ```
 [ [ 'Anil', 'Bridgpal' ],
-  [ 'Markus', 'Guehrs' ],
-  [ 'Jackie', 'Herrlin' ],
-  [ 'Avand', 'Amiri' ] ]
+  [ 'Sarah', 'Hanley' ],
+  [ 'Lenny', 'Urbanowski' ] ]
 ```
 
 ##isPalindrome(string)
