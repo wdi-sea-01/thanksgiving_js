@@ -76,7 +76,7 @@ Create a method called `is_palindrome` to check if a string is a palindrome. Do 
 Return `true` or `false` if a number is a prime number
 
 ##printPrime(number)
-Return `true` or `false` if a number is a prime number
+Take a number, and print all primes up to and including that number.
 
 
 
