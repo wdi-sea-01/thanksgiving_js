@@ -7,7 +7,7 @@ Using the following data
 Construct functions to do the following:
 
 ##pluck(someArray, "someKey")
-Using `map` construct a function called Pluck that will input array, and grab all matching keys. The function should return the of keys in an array.
+Using `map` construct a function called Pluck that will input array, and grab all matching keys. The function should return the value of keys in an array.
 
 Input
 
